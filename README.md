@@ -98,8 +98,9 @@ Each user's data is saved in `data/accounts.txt` and transaction logs in `data/t
 
 ## 🧑‍💻 Author
 
-**Aravinndh Kumaar**  
+**A.Aravinndh Kumaar**  && **J.Radha Krishna**
 🔗 GitHub: [@2200039087](https://github.com/2200039087)
+🔗 GitHub: [@RadhaKrishna-9]((https://github.com/RadhaKrishna-9))
 
 ---
 
